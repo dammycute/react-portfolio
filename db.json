@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "title": "NetNaija Copy",
+            "body": "This Website was created out of admiration and desire to take up new challenge. It is a cloned NetNaija website, it is still a work in progress work.",
+            "id": 1,
+            "web": "https://netnaijacopy.netlify.app/",
+            "git": "https://github.com/dammycute/netcopy.io.git"
+        },
+
+        {
+            "title": "Website Hosting Sites",
+            "body": "This is a website hosting website like Whogohost or Bluehost website. It was created with the quest of getting more experienced with the use of BootStrap.",
+            "id": 2,
+            "web": "https://dammycute.github.io/stage4.io/",
+            "git": "https://github.com/dammycute/stage4.io.git"
+        },
+        {
+            "title": "Gadget Repair Website",
+            "body": "This was a beginner test assignment I did while taking a training. I used purely HTML, CSS and JavaScript for the development.",
+            "id": 3,
+            "web": "https://dammycute.github.io/stage4.io/",
+            "git": "https://github.com/dammycute/ht-repair.io.git"
+        
+        },
+        {
+            "title": "Ht-food Resturant",
+            "body": "This is a Food Resturant website that was developed for practicing sake. It is just a front-end based website.",
+            "id": 4,
+            "web": "https://dammycute.github.io/digidev.io/",
+            "git": "https://github.com/dammycute/digidev.io.git"
+        },
+        {
+            "title": "Portfolio Website",
+            "body": "This is the basic Html, CSS and JavaScript version of this website. As this website was created with ReactJs.",
+            "id": 5,
+            "web": "https://dammy-port.netlify.app/",
+            "git": "#"
+        },
+        {
+            "title": "NetNaija Copy",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem adipisci quas eius nisi obcaecati",
+            "id": 6,
+            "web": "https://netnaijacopy.netlify.app/",
+            "git": "https://github.com/dammycute/netcopy.io.git"
+        }
+    
+    ]
+}
